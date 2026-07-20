@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Biometric data - don't commit
+dataset/
+encodings.pickle
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
