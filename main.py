@@ -55,7 +55,7 @@ def run_authentication():
     return None
 
 
-def run_assistant_loop(user_name):
+def  run_assistant_loop(user_name):
     print("=" * 50)
     print("STEP 2: Voice Command Mode")
     print("=" * 50)
